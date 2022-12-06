@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Crypto-Info-Site/static/js/main.9739249c.js",
+    "static/media/bitcoinLogo.png": "/Crypto-Info-Site/static/media/bitcoinLogo.04101b0b163c035fa57e.png",
+    "index.html": "/Crypto-Info-Site/index.html",
+    "main.9739249c.js.map": "/Crypto-Info-Site/static/js/main.9739249c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9739249c.js"
+  ]
+}
