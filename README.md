@@ -1,3 +1,23 @@
+# Crypto-Info-Site
+
+This is a Crypto-Info-Site which provides information about the exchanges & coins in the cryptocurrency market. 
+
+# Features :
+
+ * Collection of information about multiple exchanges and coins
+ * API integration , Hooks used etc.
+ 
+ # Tech Stack :  
+ 
+  * REACT JS
+  * REACT ROUTER
+  * CHAKRA UI
+  
+  # Description : 
+  
+  Stay updated with the daily information about the exchanges and coins with ups and downs in the currency 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
